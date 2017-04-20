@@ -115,7 +115,7 @@ for x in range(1,k):
     u4=R_U4
     
 import matplotlib.pyplot as plt
-plt.plot(ep1,[0,1,2,3,4,5,6,7,8,9])
+plt.plot(ep1)
     
 
 
