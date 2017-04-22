@@ -7,7 +7,7 @@ Created on Thu Apr 20 14:25:05 2017
 
 import numpy as np
 
-M=3
+M=6
 a=np.array([1,1,1,1,1,1,1,1,1,1,1,1,1,1])
 n=int(len(a)/M)
 A=np.zeros(n)
